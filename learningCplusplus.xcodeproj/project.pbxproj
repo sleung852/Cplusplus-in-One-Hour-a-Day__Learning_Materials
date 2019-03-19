@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		82CAE037216F600F00087482 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 82CAE036216F600F00087482 /* main.cpp */; };
+		8217936E2231168600008C0E /* Lesson 5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8217936C2231168600008C0E /* Lesson 5.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +23,33 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		821793612230F90D00008C0E /* Lesson 6.7 - while loop.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Lesson 6.7 - while loop.cpp"; sourceTree = "<group>"; };
+		8217936322310DC100008C0E /* Lesson 6.8 - for loop.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Lesson 6.8 - for loop.cpp"; sourceTree = "<group>"; };
+		821793662231136500008C0E /* Lesson 6.9 - for loop 2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Lesson 6.9 - for loop 2.cpp"; sourceTree = "<group>"; };
+		8217936C2231168600008C0E /* Lesson 5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Lesson 5.cpp"; sourceTree = SOURCE_ROOT; };
+		827C297E22228844005D86E1 /* Lesson 1 - Exercise.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Lesson 1 - Exercise.cpp"; sourceTree = "<group>"; };
+		827C298022228C09005D86E1 /* Lesson 2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Lesson 2.cpp"; sourceTree = "<group>"; };
+		827FE5E0222E301A006B38E2 /* Lesson 4.5 - C-style string.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Lesson 4.5 - C-style string.cpp"; sourceTree = "<group>"; };
+		827FE5E1222E301A006B38E2 /* Lesson 4.6 - C++ string.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Lesson 4.6 - C++ string.cpp"; sourceTree = "<group>"; };
+		827FE5E2222E301A006B38E2 /* Lesson 4.1  - enum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Lesson 4.1  - enum.cpp"; sourceTree = "<group>"; };
+		827FE5E3222E301A006B38E2 /* Lesson 4.3 - 2D array.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Lesson 4.3 - 2D array.cpp"; sourceTree = "<group>"; };
+		827FE5E4222E301A006B38E2 /* Exercise 4.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Exercise 4.cpp"; sourceTree = "<group>"; };
+		827FE5E5222E301A006B38E2 /* Lesson 4.2 - array cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Lesson 4.2 - array cpp"; sourceTree = "<group>"; };
+		827FE5E9222E301A006B38E2 /* Lesson 4.4 - dyn array.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Lesson 4.4 - dyn array.cpp"; sourceTree = "<group>"; };
+		827FE5F3222E3024006B38E2 /* Lesson 3 - Exercise.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Lesson 3 - Exercise.cpp"; sourceTree = "<group>"; };
+		827FE5F5222E3024006B38E2 /* Lesson 3.3 - const.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Lesson 3.3 - const.cpp"; sourceTree = "<group>"; };
+		827FE5F6222E3024006B38E2 /* Lesson 3.2 - type auto.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Lesson 3.2 - type auto.cpp"; sourceTree = "<group>"; };
+		827FE5F7222E3024006B38E2 /* Lesson 3.1 - sizeof.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Lesson 3.1 - sizeof.cpp"; sourceTree = "<group>"; };
+		827FE5F9222E3024006B38E2 /* Lesson 3.4 - constexpr.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Lesson 3.4 - constexpr.cpp"; sourceTree = "<group>"; };
+		827FE602222E302E006B38E2 /* Lesson 2 - Exercise.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Lesson 2 - Exercise.cpp"; sourceTree = "<group>"; };
+		827FE603222E302E006B38E2 /* Lesson2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Lesson2.cpp; sourceTree = "<group>"; };
+		827FE609222E62D3006B38E2 /* Lesson 6.1 - if...else....cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Lesson 6.1 - if...else....cpp"; sourceTree = "<group>"; };
+		827FE60C222E66CB006B38E2 /* Lesson 6.2 - compound statement.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Lesson 6.2 - compound statement.cpp"; sourceTree = "<group>"; };
+		827FE60F222E68DF006B38E2 /* Lesson 6.3 - elif in C++.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Lesson 6.3 - elif in C++.cpp"; sourceTree = "<group>"; };
+		827FE614222E6E25006B38E2 /* Lesson 6.4 - true elif in C++.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Lesson 6.4 - true elif in C++.cpp"; sourceTree = "<group>"; };
+		827FE617222E71D9006B38E2 /* Lesson 6.5 - switch case default return.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Lesson 6.5 - switch case default return.cpp"; sourceTree = "<group>"; };
+		827FE619222E7A4D006B38E2 /* Lesson 6.6 - another Condition Exception.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Lesson 6.6 - another Condition Exception.cpp"; sourceTree = "<group>"; };
 		82CAE033216F600F00087482 /* learningCplusplus */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = learningCplusplus; sourceTree = BUILT_PRODUCTS_DIR; };
-		82CAE036216F600F00087482 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,10 +63,76 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		821793682231153800008C0E /* Lesson 5 */ = {
+			isa = PBXGroup;
+			children = (
+				8217936C2231168600008C0E /* Lesson 5.cpp */,
+			);
+			name = "Lesson 5";
+			path = "Lesson 7";
+			sourceTree = "<group>";
+		};
+		827C298322228C14005D86E1 /* Lesson 2 */ = {
+			isa = PBXGroup;
+			children = (
+				827FE602222E302E006B38E2 /* Lesson 2 - Exercise.cpp */,
+				827FE603222E302E006B38E2 /* Lesson2.cpp */,
+				827C298022228C09005D86E1 /* Lesson 2.cpp */,
+			);
+			path = "Lesson 2";
+			sourceTree = "<group>";
+		};
+		827FE5DE222E2F74006B38E2 /* Lesson 3 */ = {
+			isa = PBXGroup;
+			children = (
+				827FE5F7222E3024006B38E2 /* Lesson 3.1 - sizeof.cpp */,
+				827FE5F6222E3024006B38E2 /* Lesson 3.2 - type auto.cpp */,
+				827FE5F5222E3024006B38E2 /* Lesson 3.3 - const.cpp */,
+				827FE5F9222E3024006B38E2 /* Lesson 3.4 - constexpr.cpp */,
+				827FE5F3222E3024006B38E2 /* Lesson 3 - Exercise.cpp */,
+			);
+			path = "Lesson 3";
+			sourceTree = "<group>";
+		};
+		827FE5DF222E2F7A006B38E2 /* Lesson 4 */ = {
+			isa = PBXGroup;
+			children = (
+				827FE5E2222E301A006B38E2 /* Lesson 4.1  - enum.cpp */,
+				827FE5E5222E301A006B38E2 /* Lesson 4.2 - array cpp */,
+				827FE5E3222E301A006B38E2 /* Lesson 4.3 - 2D array.cpp */,
+				827FE5E9222E301A006B38E2 /* Lesson 4.4 - dyn array.cpp */,
+				827FE5E0222E301A006B38E2 /* Lesson 4.5 - C-style string.cpp */,
+				827FE5E1222E301A006B38E2 /* Lesson 4.6 - C++ string.cpp */,
+				827FE5E4222E301A006B38E2 /* Exercise 4.cpp */,
+			);
+			path = "Lesson 4";
+			sourceTree = "<group>";
+		};
+		827FE608222E62C3006B38E2 /* Lesson 6 */ = {
+			isa = PBXGroup;
+			children = (
+				827FE609222E62D3006B38E2 /* Lesson 6.1 - if...else....cpp */,
+				827FE60C222E66CB006B38E2 /* Lesson 6.2 - compound statement.cpp */,
+				827FE60F222E68DF006B38E2 /* Lesson 6.3 - elif in C++.cpp */,
+				827FE614222E6E25006B38E2 /* Lesson 6.4 - true elif in C++.cpp */,
+				827FE617222E71D9006B38E2 /* Lesson 6.5 - switch case default return.cpp */,
+				827FE619222E7A4D006B38E2 /* Lesson 6.6 - another Condition Exception.cpp */,
+				821793612230F90D00008C0E /* Lesson 6.7 - while loop.cpp */,
+				8217936322310DC100008C0E /* Lesson 6.8 - for loop.cpp */,
+				821793662231136500008C0E /* Lesson 6.9 - for loop 2.cpp */,
+			);
+			path = "Lesson 6";
+			sourceTree = "<group>";
+		};
 		82CAE02A216F600F00087482 = {
 			isa = PBXGroup;
 			children = (
-				82CAE035216F600F00087482 /* learningCplusplus */,
+				827FE608222E62C3006B38E2 /* Lesson 6 */,
+				821793682231153800008C0E /* Lesson 5 */,
+				827FE5DF222E2F7A006B38E2 /* Lesson 4 */,
+				827FE5DE222E2F74006B38E2 /* Lesson 3 */,
+				827C298322228C14005D86E1 /* Lesson 2 */,
+				82CAE035216F600F00087482 /* Lesson 1 */,
 				82CAE034216F600F00087482 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +145,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		82CAE035216F600F00087482 /* learningCplusplus */ = {
+		82CAE035216F600F00087482 /* Lesson 1 */ = {
 			isa = PBXGroup;
 			children = (
-				82CAE036216F600F00087482 /* main.cpp */,
+				827C297E22228844005D86E1 /* Lesson 1 - Exercise.cpp */,
 			);
-			path = learningCplusplus;
+			path = "Lesson 1";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -118,7 +209,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				82CAE037216F600F00087482 /* main.cpp in Sources */,
+				8217936E2231168600008C0E /* Lesson 5.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
